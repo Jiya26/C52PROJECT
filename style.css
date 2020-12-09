@@ -1,0 +1,42 @@
+h2{
+    color: skyblue;
+    font-style: oblique;
+}
+
+.animal{
+    font-style: italic;
+    align-items: center;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 50px;
+}
+
+.menu{
+    margin-right: 50px;
+}
+
+.menu a{
+    margin-left: 20px;
+}
+
+.grid{
+    display: flex;
+    flex-direction: column;
+}
+
+a:visited{
+    color: tomato;
+}
+
+a:link{
+    color: teal;
+}
+body{
+    border: solid;
+}
+.animal:hover img{
+    opacity: 0.35;
+}
