@@ -40,3 +40,10 @@ body{
 .animal:hover img{
     opacity: 0.35;
 }
+
+.grid:hover{
+    transform: scale(0.9);
+}
+a{
+    text-decoration: none;
+}
